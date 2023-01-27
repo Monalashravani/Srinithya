@@ -26,3 +26,4 @@ printf("x = ");
 printf("%.5f", power(x, n));
  return 0;
 }
+//hii
